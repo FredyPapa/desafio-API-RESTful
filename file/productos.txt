@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 123.2,
+    "thumbnail": "https://image.shutterstock.com/image-vector/vector-illustration-set-rulers-flat-260nw-1052690225.jpg",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-12-digitos-mx-12smz-12s-540-default-1.jpg",
+    "id": 2
+  },
+  {
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_809904-MPE44776944053_022021-O.jpg",
+    "id": 3
+  },
+  {
+    "title": "Escuadra",
+    "price": 246.94,
+    "thumbnail": "https://image.shutterstock.com/image-vector/vector-illustration-set-rulers-flat-260nw-1052690225.jpg",
+    "id": 4
+  },
+  {
+    "title": "Escuadra2",
+    "price": 123.47,
+    "thumbnail": "https://image.shutterstock.com/image-vector/vector-illustration-set-rulers-flat-260nw-1052690225.jpg",
+    "id": 5
+  },
+  {
+    "title": "abc",
+    "price": "50",
+    "thumbnail": "https://image.shutterstock.com/image-vector/vector-illustration-set-rulers-flat-260nw-1052690225.jpg",
+    "id": 6
+  },
+  {
+    "title": "abc",
+    "price": "50",
+    "thumbnail": "https://image.shutterstock.com/image-vector/vector-illustration-set-rulers-flat-260nw-1052690225.jpg",
+    "id": 7
+  }
+]
